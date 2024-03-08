@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=royalblue&height=150&section=header&text=hjck4433's GitHub&fontSize=1.8em" />
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HyunJi's%20GitHub&fontAlign=50&textBg=false&section=header&fontSize=61&fontAlignY=42)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjck4433)](https://github.com/anuraghazra/github-readme-stats) [![HyunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjck4433)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hjck4433)](https://git.io/streak-stats)
 
-
-### Hi there 👋
-
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlign=50&textBg=false&section=footer&fontSize=61&fontAlignY=42)
 <!--
 **hjck4433/hjck4433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
