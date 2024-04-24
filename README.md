@@ -63,8 +63,6 @@
 </br>
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hjck4433)](https://git.io/streak-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hjck4433)](https://solved.ac/hjck4433)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjck4433&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
